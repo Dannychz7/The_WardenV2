@@ -117,7 +117,7 @@ Contributions are welcome! This project is in active development.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## �� Links
+## Links
 
 - [Legacy Version (V1)](https://github.com/yourusername/the-warden-v1)
 - [Documentation](https://warden-docs.example.com)
@@ -130,4 +130,4 @@ Users are responsible for compliance with applicable laws and regulations.
 
 ---
 
-**Note:** This is V2 - a complete rewrite. For the legacy version, see [the-warden-v1](link).
+**Note:** This is V2 - a complete rewrite. For the legacy version, see [the-warden-v1](https://github.com/Dannychz7/the_warden).
