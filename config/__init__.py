@@ -1,0 +1,1 @@
+"""Configuration module for The Warden V2"""
